@@ -14,8 +14,7 @@ went ahead with the Standardisation for these features.
 features and went ahead with model building.
 • From the initial 15 features which RFE suggested, we used a backward approach to drop the insignificant features
 which had either high p-value or high Variance Inflation factor.
-• Final model we got was evaluated not only just accuracy but for various features such as Sensitivity, Specificity, True
-Positive Rate, False Positive Rate.
+• Final model we got was evaluated not only just accuracy but for various features such as Sensitivity, Specificity, True Positive Rate, False Positive Rate.
 • Use of ROC and AUC (ROC curve aria = 0.88) also to evaluate the model in-hand.
 • Optimal Cut-off point was found out which we finalized and based on which we checked the model evaluation in
 both train and test datasets.
